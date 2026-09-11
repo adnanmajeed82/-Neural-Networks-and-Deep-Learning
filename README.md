@@ -30,7 +30,7 @@
 | --------------------------- | ----------------------- |
 | 🧪 **Lab Exercises**        | Lab 1–5                 |
 | 📝 **Assignments**          | Assignment 1–4          |
-| 💻 **DataCamp Assignments** | DataCamp Assignment 1–2 |
+| 💻 **DataCamp Assignments** | Assignment 1–2 |
 | 🎯 **Midterm Examination**  | Week 9                  |
 | 👥 **Group Presentations**  | Week 11                 |
 | 🎤 **Final Presentations**  | Week 16                 |
